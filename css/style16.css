@@ -1,0 +1,13 @@
+.mr-div {
+  position: fixed;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+    font-size: 10px;
+  }
+
+ img {
+    width: 150px;
+    height: auto;
+  }

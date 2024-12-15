@@ -1,0 +1,24 @@
+.div1{
+    position: relative;
+    border: 2px solid black;
+    height: 150px;
+}
+.div2{
+    position: absolute;
+    background-color: #90ee90;
+    left: 200px;
+    width: 440px;
+    height: 200px;
+    top: 60px;
+}
+.div3{
+    background-color: blue;
+    height: 150px;
+    color: white;
+    font-weight: bold;
+    position: fixed;
+    top: 190px;
+    margin-left: 20px;
+    width: 609px;
+    
+}

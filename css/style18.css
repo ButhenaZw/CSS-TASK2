@@ -1,0 +1,35 @@
+body{
+    position: absolute;
+    color: white;
+}
+.div1{
+    position: absolute;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    z-index: 4;
+}
+.div2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    top: 45px;
+}
+.div3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 58px;
+    margin-left: 38px;
+}
+.div4{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 79px;
+    margin-left: 57px;
+}
+img{
+    border-radius: 10px;
+}

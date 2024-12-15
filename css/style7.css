@@ -1,0 +1,22 @@
+div{
+    background-color: orange;
+    width: 200px;
+    height: 90px;
+    margin: 0 auto; 
+
+    padding: 10px;
+    color: rgb(0, 0, 0);
+   
+    font-size: 16px;
+    border-radius: 15px;
+}
+.div1{
+    box-shadow: 10px 11px 15px;
+}
+.div2{
+    box-shadow: inset 5px 5px 10px;
+}
+.div3{
+    box-shadow:5px 5px 10px;
+    box-shadow: -5px -5px 10px rgb(253, 94, 94);
+}

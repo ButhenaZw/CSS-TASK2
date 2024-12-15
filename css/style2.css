@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    width: 400px;
+    height: 120px;
+    margin: 0 auto; 
+}
+.div1{
+    overflow: visible;
+    padding-left: 10px;
+}
+.div2{
+    overflow: hidden;
+    padding-left: 10px;
+}
+.div3{
+    overflow: scroll;
+    padding-left: 10px;
+}
+.div4{
+    overflow: auto;
+    padding-left: 10px;
+}

@@ -1,0 +1,26 @@
+body{
+    font-size: 20px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto; 
+    background-color: #ff7700;
+    text-align: center;
+    padding: 50px;
+    color: white;
+    line-height: 50px;
+}
+.div1{
+    opacity: 1;
+}
+.div2{
+    opacity: 0.75;
+}
+.div3{
+    opacity: 0.5;
+}
+.div4{
+    opacity: 0.25;
+}
