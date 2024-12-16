@@ -4,5 +4,5 @@ div{
     height: 300px;
     border: 10px solid transparent;
   padding: 15px;
-  border-image: url(/img/images\ \(1\).jpeg) 30 stretch;
-  
+  border-image: url(../img/images\ \(1\).jpeg) 30 stretch;
+}

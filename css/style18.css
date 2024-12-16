@@ -1,35 +1,24 @@
-body{
-    position: absolute;
-    color: white;
-}
-.div1{
-    position: absolute;
-    border-radius: 10px;
-    width: 100px;
-    height: 100px;
-    z-index: 4;
-}
-.div2{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    margin-left: 20px;
-    top: 45px;
-}
-.div3{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    top: 58px;
-    margin-left: 38px;
-}
-.div4{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    top: 79px;
-    margin-left: 57px;
-}
 img{
     border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
 }
+
+.img1{
+    z-index: 1;
+}
+
+.img2{
+top: 20px;
+left: 20px;
+}
+.img3{
+    top: 30px;
+    left: 30px;
+    }
+.img4{
+top: 40px;
+ left: 40px;
+ }
+ 
